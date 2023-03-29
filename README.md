@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ChamithDilshan)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ChamithDilshan&theme=github-dark)](https://git.io/streak-stats)
 
 <!--
 **ChamithDilshan/ChamithDilshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
